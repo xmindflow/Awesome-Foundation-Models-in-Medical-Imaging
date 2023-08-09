@@ -15,7 +15,7 @@
 </div>
 
 
-# <p align=center>`Awesome CV Foundational Models`</p>
+# <p align=center>`Awesome Medical Imaging Foundational Models`</p>
 
 A curated list of awesome foundational models in medical imaging. This repo supplements our survey paper. We intend to continuously update it.
 
