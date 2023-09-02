@@ -3,7 +3,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-:fire::fire:This is a collection of foundational models in medical imaging:fire::fire:
+:fire::fire: This is a collection of foundational models in medical imaging:fire::fire:
 
 > [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**]()<br>
 > **Abstract** \
@@ -27,10 +27,10 @@ If you find our work useful in your research, please consider citing:
 ----
 - [Surveys](#surveys)
 
-* [2023.08] [Towards Generalist Foundation Model for Radiology](https://arxiv.org/pdf/2308.02463.pdf) (from SJTU)
-* [2023.07] [Towards Generalist Biomedical AI](https://arxiv.org/pdf/2307.14334.pdf) (from Google)
-* [2023.04] [Foundation Models for Generalist Medical Artificial Intelligence](https://www.nature.com/articles/s41586-023-05881-4)
-* [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (Pioneer of *Foundation Models* concept)
+  - [2023.08] [Towards Generalist Foundation Model for Radiology](https://arxiv.org/pdf/2308.02463.pdf)
+  - [2023.07] [Towards Generalist Biomedical AI](https://arxiv.org/pdf/2307.14334.pdf) 
+  - [2023.04] [Foundation Models for Generalist Medical Artificial Intelligence](https://www.nature.com/articles/s41586-023-05881-4)
+  - [2022.07] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (Pioneer of *Foundation Models* concept)
 
 - Textually Prompted Models
   - Contrastive
