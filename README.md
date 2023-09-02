@@ -26,9 +26,7 @@ If you find our work useful in your research, please consider citing:
 ```
 ----
 - [Surveys](#surveys)
-- [Year 2021](#2021)
-- [Year 2022](#2022)
-- [Year 2023](#2023)
+
 
 - Textually Prompted Models
   - Contrastive
