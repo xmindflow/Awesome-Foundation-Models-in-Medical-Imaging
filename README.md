@@ -1,13 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Generic badge](https://img.shields.io/badge/Institue-XMindFlow-purple.svg)](https://shields.io/)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![arXiv](https://img.shields.io/badge/arXiv-2310.18689-b31b1b.svg)](https://arxiv.org/abs/2310.18689)
 
 :fire::fire: This is a collection of foundational models in medical imaging:fire::fire:
 
 > [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**]()<br>
 > **Abstract** \
-> Foundation models, large-scale, pre-trained deep-learning models adapted to a wide range of downstream tasks have garnered immense interest lately in various deep-learning problems undergoing a paradigm shift with the rise of these models. Trained on large-scale datasets to bridge the gap between different modalities, foundation models facilitate contextual reasoning, generalization, and prompt capabilities at test time. The predictions of these models can be adjusted for new tasks by augmenting the model input with task-specific hints called prompts without requiring extensive labelled data and retraining. Capitalizing on the advances in computer vision, medical imaging has also marked a growing appeal in these models. With the aim of assisting researchers in navigating this flurry, this survey intends to provide a comprehensive overview of foundation models in the discipline of medical imaging. Specifically, we start with an introduction to the basis and fundamental concepts behind foundation models prior to providing a systematic taxonomy of foundation models in the medical domain and propose a multi-perspective categorization based on the type of training, application, imaging modality, organ of interest, and algorithms. Furthermore, we emphasize the practical use case of some selected approaches and then discuss the opportunities, applications and future directions of these large-scale pre-trained models, for analyzing medical images. We discuss the open challenges and research directions for foundational models in medical imaging, including their interpretability, data and computation demands, and contextual understanding issues.
+> Foundation models, large-scale, pre-trained deep-learning models adapted to a wide range of downstream tasks have gained significant interest lately in various deep-learning problems undergoing a paradigm shift with the rise of these models. Trained on large-scale dataset to bridge the gap between different modalities, foundation models facilitate contextual reasoning, generalization, and prompt capabilities at test time. The predictions of these models can be adjusted for new tasks by augmenting the model input with task-specific hints called prompts without requiring extensive labeled data and retraining. Capitalizing on the advances in computer vision, medical imaging has also marked a growing interest in these models. To assist researchers in navigating this direction, this survey intends to provide a comprehensive overview of foundation models in the domain of medical imaging. Specifically, we initiate our exploration by providing an exposition of the fundamental concepts forming the basis of foundation models. Subsequently, we offer a methodical taxonomy of foundation models within the medical domain, proposing a classification system primarily structured around training strategies, while also incorporating additional facets such as application domains, imaging modalities, specific organs of interest, and the algorithms integral to these models. Furthermore, we emphasize the practical use case of some selected approaches and then discuss the opportunities, applications, and future directions of these large-scale pre-trained models, for analyzing medical images. In the same vein, we address the prevailing challenges and research pathways associated with foundational models in medical imaging. These encompass the areas of interpretability, data management, computational requirements, and the nuanced issue of contextual comprehension.
 
 <div align='center'>
 <!-- <img src="overview.svg" width="60%" height="60%"> -->
@@ -24,7 +21,14 @@ _**We strongly encourage authors of relevant works to make a pull request and ad
 If you find our work useful in your research, please consider citing:
 
 ```
-
+@misc{azad2023foundational,
+      title={Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision}, 
+      author={Bobby Azad and Reza Azad and Sania Eskandari and Afshin Bozorgpour and Amirhossein Kazerouni and Islem Rekik and Dorit Merhof},
+      year={2023},
+      eprint={2310.18689},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ----
