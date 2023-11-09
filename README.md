@@ -130,92 +130,95 @@ ____
 
 #### Conversational
 
-**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**<br>
-*none*<br>
-[0th Feb., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2302.07257)]<br>
-
-
-**DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4**<br>
-*none*<br>
-[0th Mar., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/pdf/2303.11032.pdf)]<br>
-
-
-**ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**<br>
-*none*<br>
-[0th Mar., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2303.14070)]<br>
-
-
-**Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities**<br>
-*none*<br>
-[0th Apr., 2023] [arXiv, 2023]<br>
-[[Paper](https://github.com/cambridgeltl/visual-med-alpaca)]<br>
-
-
-**PMC-LLaMA: Towards Building Open-source Language Models for Medicine**<br>
-*none*<br>
-[0th Apr., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2304.14454)]<br>
-
-
-**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**<br>
-*none*<br>
-[0th Jun., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2306.07971)]<br>
-
-
-**LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day**<br>
-*none*<br>
-[0th Jun., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2306.00890)]<br>
+**Radiology-Llama2: Best-in-Class Large Language Model for Radiology**<br>
+*Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Jie Luo, Cheng Chen, Sekeun Kim, Jiang Hu, Haixing Dai, Lin Zhao, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Tianming Liu, Quanzheng Li, Xiang Li*<br>
+[29th Aug., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2309.06419)]<br>
 
 
 **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**<br>
-*none*<br>
-[0th Jun., 2023] [arXiv, 2023]<br>
+*Guangyu Wang, Guoxing Yang, Zongxin Du, Longjun Fan, Xiaohu Li*<br>
+[16th Jun., 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/abs/2306.09968)]<br>
 
 
-**Radiology-Llama2: Best-in-Class Large Language Model for Radiology**<br>
-*none*<br>
-[0th Sep., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2309.06419)]<br>
+**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**<br>
+*Omkar Thawkar, Abdelrahman Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Jorma Laaksonen, Fahad Shahbaz Khan*<br>
+[13th Jun., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2306.07971)] [[GitHub](https://github.com/mbzuai-oryx/XrayGPT)]<br>
+
+
+**LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day**<br>
+*Chunyuan Li, Cliff Wong, Sheng Zhang, Naoto Usuyama, Haotian Liu, Jianwei Yang, Tristan Naumann, Hoifung Poon, Jianfeng Gao*<br>
+[1st Jun., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2306.00890)] [[GitHub](https://github.com/microsoft/LLaVA-Med)]<br>
+
+
+**PMC-LLaMA: Towards Building Open-source Language Models for Medicine**<br>
+*Chaoyi Wu, Weixiong Lin, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie*<br>
+[27th Apr., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2304.14454)] [[GitHub](https://github.com/chaoyi-wu/PMC-LLaMA)]<br>
+
+
+**Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities**<br>
+*Chang Shu, Baian Chen, Fangyu Liu, Zihao Fu, Ehsan Shareghi, Nigel Collier*<br>
+[11th Apr., 2023] [GitHub, 2023]<br>
+[[GitHub](https://github.com/cambridgeltl/visual-med-alpaca)]<br>
+
+
+**ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**<br>
+*Yunxiang Li, Zihan Li, Kai Zhang, Ruilong Dan, Steve Jiang, You Zhang*<br>
+[24th Mar., 2023] [Cureus, 2023]<br>
+[[Paper](https://arxiv.org/abs/2303.14070)] [[GitHub](https://github.com/Kent0n-Li/ChatDoctor)]<br>
+
+
+**DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4**<br>
+*Zhengliang Liu, Xiaowei Yu, Lu Zhang, Zihao Wu, Chao Cao, Haixing Dai, Lin Zhao, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, Dajiang Zhu, Xiang Li*<br>
+[20th Mar., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/pdf/2303.11032.pdf)] [[GitHub](https://github.com/yhydhx/ChatGPT-API)]<br>
+
+
+**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**<br>
+*Sheng Wang, Zihao Zhao, Xi Ouyang, Qian Wang, Dinggang Shen*<br>
+[14th Feb., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2302.07257)]<br>
+
 
 ---
 #### Generative
 
+**Med-Flamingo: a Multimodal Medical Few-shot Learner**<br>
+*Michael Moor, Qian Huang, Shirley Wu, Michihiro Yasunaga, Cyril Zakka, Yash Dalmia, Eduardo Pontes Reis, Pranav Rajpurkar, Jure Leskovec*<br>
+[27th Jul., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2307.15189)] [[GitHub](https://github.com/snap-stanford/med-flamingo)]<br>
+
+
 **Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation**<br>
 *none*<br>
-[0th Jun., 2020] [arXiv, 2020]<br>
+[22nd Jun., 2022] [AAAI, 2022]<br>
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20204)]<br>
 
 
 **Towards Expert-Level Medical Question Answering with Large Language Models**<br>
-*none*<br>
-[0th May., 2023] [arXiv, 2023]<br>
+*Karan Singhal, Tao Tu, Juraj Gottweis, Rory Sayres, Ellery Wulczyn, Le Hou, Kevin Clark, Stephen Pfohl, Heather Cole-Lewis, Darlene Neal, Mike Schaekermann, Amy Wang, Mohamed Amin, Sami Lachgar, Philip Mansfield, Sushant Prakash, Bradley Green, Ewa Dominowska, Blaise Aguera y Arcas, Nenad Tomasev, Yun Liu, Renee Wong, Christopher Semturs, S. Sara Mahdavi, Joelle Barral, Dale Webster, Greg S. Corrado, Yossi Matias, Shekoofeh Azizi, Alan Karthikesalingam, Vivek Natarajan*<br>
+[16th May., 2023] [arXiv, 2023]<br>
 [[Paper](https://arxiv.org/pdf/2305.09617.pdf)]<br>
 
-
-**Med-Flamingo: a Multimodal Medical Few-shot Learner**<br>
-*none*<br>
-[0th Jul., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/abs/2307.15189)]<br>
 
 ---
 #### Hybrid
 
+**MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts**<br>
+*Qiuhui Chen, Xinyue Hu, Zirui Wang, Yi Hong*<br>
+[18th May., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/pdf/2305.10799.pdf)] [[GitHub](https://github.com/Qybc/MedBLIP)]<br>
+
+
 **Vision-Language Model for Visual Question Answering in Medical Imagery**<br>
 *none*<br>
-[0th Mar., 2023] [arXiv, 2023]<br>
+[22nd Feb., 2023] [Bioengineering, 2023]<br>
 [[Paper](https://www.mdpi.com/2306-5354/10/3/380)]<br>
 
-
-**MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts**<br>
-*none*<br>
-[0th May., 2023] [arXiv, 2023]<br>
-[[Paper](https://arxiv.org/pdf/2305.10799.pdf)]<br>
 
 ---
 ### Visual Prompted Models
