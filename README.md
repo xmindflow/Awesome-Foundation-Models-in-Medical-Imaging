@@ -30,10 +30,6 @@ Foundation models, large-scale pre-trained deep learning models adaptable to var
 
 
 We strongly encourage authors of relevant works to make a pull request and add their paper's information.
-____
-
-
-# Menu
 
 ## Contents
 - [Survey Papers](#survey-papers)
