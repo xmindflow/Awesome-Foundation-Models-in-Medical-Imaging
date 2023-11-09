@@ -51,6 +51,12 @@ ____
     
 ## Survey Papers
 
+**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**🔥<br> 
+*Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof*<br>
+[28th Oct., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2310.18689)]<br>
+
+
 ## Papers
 
 ### Textual Prompted Models
